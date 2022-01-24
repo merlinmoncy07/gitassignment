@@ -1,2 +1,3 @@
 Merlin Moncy
 Now Im at first branch
+Merging completed and now Im at merged node
